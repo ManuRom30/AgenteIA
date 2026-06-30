@@ -1,0 +1,32 @@
+[
+  {
+    "id": "riesgo_001",
+    "categoria": "Riesgos - Impago",
+    "pregunta": "Que riesgos existen al vender internacionalmente?",
+    "respuesta": "Los principales riesgos en exportacion son: 1) Riesgo comercial: el cliente no paga o cancela el pedido. 2) Riesgo cambiario: la TRM baja y pierdes margen. 3) Riesgo de transporte: dano, perdida o robo de mercancia. 4) Riesgo pais: inestabilidad politica/economica del destino, cambio de regulaciones, sanciones. 5) Riesgo documental: errores en papeles que causan retenciones. 6) Riesgo de produccion: no cumplir calidad o plazos. Mitigacion: anticipos, seguros, diversificacion de clientes, coberturas cambiarias, y documentacion impecable."
+  },
+  {
+    "id": "riesgo_002",
+    "categoria": "Riesgos - Verificacion",
+    "pregunta": "Como verificar si un cliente es confiable?",
+    "respuesta": "Para verificar un comprador internacional: 1) Solicita referencias comerciales (otros proveedores con los que trabaje). 2) Consulta Dun & Bradstreet (D&B) para reporte de credito empresarial. 3) Busca la empresa en registros publicos de su pais (Companies House UK, SEC USA, etc). 4) Pide estados financieros o carta del banco. 5) Verifica su presencia online (web, LinkedIn, redes). 6) Consulta con ProColombia o tu gremio sectorial. 7) Empieza con pedidos pequenos y anticipo alto. Si un cliente rechaza dar referencias o pagar anticipo, es una senal de alerta importante."
+  },
+  {
+    "id": "riesgo_003",
+    "categoria": "Riesgos - Cambiario",
+    "pregunta": "Que es una cobertura cambiaria?",
+    "respuesta": "La cobertura cambiaria (forward) es un contrato con el banco donde pactas HOY la tasa de cambio a la que vas a vender tus dolares en una fecha FUTURA. Ejemplo: hoy la TRM es $4,100. Pactas vender $10,000 USD en 90 dias a $4,050 (tasa forward). Si en 90 dias la TRM real es $3,900, tu igual vendes a $4,050 (ganaste $150/dolar vs mercado). Si la TRM es $4,200, vendiste a $4,050 (perdiste $150/dolar vs mercado, pero aseguraste tu margen). Es un seguro contra volatilidad, no una apuesta. Tiene costo implicito en la tasa forward."
+  },
+  {
+    "id": "riesgo_004",
+    "categoria": "Riesgos - Buenas practicas",
+    "pregunta": "Como aseguro el pago en una exportacion?",
+    "respuesta": "Estrategias para asegurar el cobro, de mayor a menor proteccion: 1) Pago 100% anticipado (clientes nuevos, pedidos pequenos). 2) Carta de credito irrevocable confirmada (pedidos grandes, clientes sin historial). 3) Esquema 50% anticipo + 50% contra docs de embarque (lo mas comun). 4) Seguro de credito a la exportacion (Bancoldex, Segurexpo): cubre hasta 85% si el cliente no paga. 5) Contrato con clausula de arbitraje internacional (CCI). NUNCA embarques sin anticipo con un cliente nuevo, sin importar lo prometedor que parezca el negocio."
+  },
+  {
+    "id": "riesgo_005",
+    "categoria": "Riesgos - Errores comunes",
+    "pregunta": "Que errores se cometen en pagos internacionales?",
+    "respuesta": "Errores mas comunes: 1) Embarcar sin anticipo confiando en la palabra del cliente. 2) No incluir costos bancarios en el precio (pierdes 1-2% de margen). 3) No hacer el reintegro de divisas a tiempo (multas). 4) Usar TRM optimista para cotizar y luego perder cuando baja. 5) No verificar datos bancarios del cliente (fraude de cambio de cuenta). 6) Aceptar pagos por canales informales. 7) No guardar soportes de pago. 8) Dar plazo de 90 dias a clientes nuevos. 9) No calcular el 4x1000 ni comisiones SWIFT. 10) Mezclar cuentas personales con empresariales."
+  }
+]

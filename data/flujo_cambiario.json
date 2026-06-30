@@ -1,0 +1,74 @@
+[
+  {
+    "id": "flujo_001",
+    "categoria": "Flujo Cambiario - Basico",
+    "pregunta": "Que es el flujo cambiario en exportacion?",
+    "respuesta": "El flujo cambiario es el proceso de recibir, convertir y legalizar el pago en dolares (o moneda extranjera) de una exportacion. En Colombia, todo pago del exterior debe canalizarse a traves del mercado cambiario formal (bancos autorizados). El proceso es: 1) El cliente paga en USD a tu cuenta. 2) El banco recibe las divisas. 3) Tu presentas documentos soporte (factura + DEX). 4) El banco monetiza (convierte a pesos) y genera declaracion de cambio. Es obligatorio, no opcional."
+  },
+  {
+    "id": "flujo_002",
+    "categoria": "Flujo Cambiario - Basico",
+    "pregunta": "Que debo hacer cuando recibo un pago en dolares?",
+    "respuesta": "Paso a paso: 1) Confirma que el pago llego a tu cuenta bancaria en Colombia (el banco te notifica). 2) Presenta al banco: factura comercial, DEX, y conocimiento de embarque. 3) El banco verifica documentos y monetiza las divisas (convierte USD a COP). 4) Se genera automaticamente la declaracion de cambio. 5) Los pesos quedan disponibles en tu cuenta. Importante: tienes maximo 6 meses desde la fecha del DEX para canalizar el reintegro. No dejes pasar este plazo."
+  },
+  {
+    "id": "doc_flujo_003",
+    "categoria": "Flujo Cambiario - Proceso",
+    "pregunta": "Que documentos necesito para recibir pagos del exterior?",
+    "respuesta": "Para el reintegro de divisas necesitas: 1) Factura comercial de exportacion (original). 2) DEX - Declaracion de Exportacion (emitido por la DIAN a traves de tu agente aduanero). 3) Conocimiento de embarque (B/L) o guia aerea (AWB). Estos tres documentos son la base. El banco puede pedir adicionalmente: copia del contrato de compraventa, carta de credito (si aplica), y formulario de declaracion de cambio. Sin DEX no puedes legalizar el pago."
+  },
+  {
+    "id": "flujo_004",
+    "categoria": "Flujo Cambiario - TRM",
+    "pregunta": "Que TRM debo usar en una exportacion?",
+    "respuesta": "La TRM para tu exportacion es la NEGOCIADA con el banco, no necesariamente la TRM oficial del dia. Tienes opciones: 1) TRM spot: la tasa del momento en que monetizas (la mas comun). 2) TRM forward: pactas una tasa futura con el banco (cobertura cambiaria). 3) TRM del dia de pago del cliente. Consejo: para cotizar, usa una TRM conservadora (menor a la actual) y deja un margen del 2-3% por volatilidad. Nunca cotices con la TRM mas alta del momento porque si baja, pierdes margen."
+  },
+  {
+    "id": "flujo_005",
+    "categoria": "Flujo Cambiario - TRM",
+    "pregunta": "Como afecta la tasa de cambio mi rentabilidad?",
+    "respuesta": "La TRM impacta directamente tu margen. Si cotizas a TRM $4,000 y cuando recibes el pago la TRM esta en $3,800, perdiste $200 por cada dolar. En un pedido de $10,000 USD eso son $2,000,000 COP menos. Para protegerte: 1) Cotiza con TRM conservadora. 2) Incluye margen cambiario del 2-3% en tu precio. 3) Cobra anticipos rapido (mientras la tasa este favorable). 4) Considera cobertura cambiaria con el banco para pedidos grandes. 5) Factura y cobra lo mas rapido posible despues de embarcar."
+  },
+  {
+    "id": "flujo_006",
+    "categoria": "Flujo Cambiario - Medios de pago",
+    "pregunta": "Cuales son los medios de pago internacionales?",
+    "respuesta": "Los principales medios de pago en exportacion son: 1) Transferencia bancaria (wire transfer): el mas comun y directo. El cliente transfiere a tu cuenta. Rapido pero sin garantia de pago. 2) Carta de credito (L/C): el banco del comprador garantiza el pago si cumples condiciones documentales. Mas segura pero mas costosa. 3) Cobranza documentaria: el banco gestiona el cobro contra entrega de documentos. Intermedio en seguridad. 4) Pago anticipado: el mas seguro para ti. Recomendado con clientes nuevos."
+  },
+  {
+    "id": "flujo_007",
+    "categoria": "Flujo Cambiario - Medios de pago",
+    "pregunta": "Que es una carta de credito y como funciona?",
+    "respuesta": "La carta de credito (Letter of Credit) es una garantia bancaria: el banco del comprador se compromete a pagarte si presentas los documentos exigidos (factura, packing list, B/L, certificados, etc). Flujo: 1) Comprador abre L/C en su banco. 2) El banco te notifica las condiciones. 3) Tu produces y embarcas. 4) Presentas documentos al banco. 5) Si cumplen, el banco te paga. Ventaja: seguridad de cobro. Desventaja: costosa (1-3% del valor), documentacion debe ser perfecta (un error = rechazo), proceso lento."
+  },
+  {
+    "id": "flujo_008",
+    "categoria": "Flujo Cambiario - Medios de pago",
+    "pregunta": "Que medio de pago es mas seguro para exportar?",
+    "respuesta": "De mas a menos seguro para el exportador: 1) Pago 100% anticipado: cero riesgo, pero dificil con clientes nuevos grandes. 2) Carta de credito irrevocable: banco garantiza, pero costosa y exigente en documentos. 3) Pago parcial anticipado (50/50 o 70/30): equilibrio practico, lo mas comun. 4) Transferencia contra documentos: envias docs al cliente y paga al recibirlos. 5) Pago a plazo (30-60-90 dias): alto riesgo, solo con clientes de confianza. Recomendacion: clientes nuevos siempre con anticipo alto o carta de credito."
+  },
+  {
+    "id": "flujo_009",
+    "categoria": "Flujo Cambiario - Condiciones de pago",
+    "pregunta": "Cual es la forma de pago mas comun en exportacion?",
+    "respuesta": "La mas comun en confecciones es pago parcial anticipado: 50% al confirmar pedido (antes de producir) y 50% contra documentos de embarque. Variaciones segun confianza: clientes nuevos: 70% anticipo / 30% contra embarque, o incluso 100% anticipo. Clientes recurrentes: 50/50 o 30% anticipo / 70% contra embarque. Clientes de mucha confianza: 30-60 dias despues de embarque. Nunca produzcas sin al menos 30% de anticipo, aunque sea un cliente conocido."
+  },
+  {
+    "id": "flujo_010",
+    "categoria": "Flujo Cambiario - Riesgo",
+    "pregunta": "Que pasa si el cliente no paga?",
+    "respuesta": "Si el cliente no paga despues de embarcar: 1) Si usaste carta de credito: el banco paga (por eso es segura). 2) Si fue transferencia: dependes de la voluntad del cliente. Opciones: negociar, mediacion comercial, o demanda internacional (costosa y lenta). 3) Si la mercancia aun no llega: puedes intentar redirigirla o retenerla. Prevencion: anticipo minimo 50%, verificacion de credito del comprador (Dun & Bradstreet, referencias comerciales), contrato escrito con clausula de arbitraje, y seguro de credito a la exportacion (Bancoldex ofrece)."
+  },
+  {
+    "id": "flujo_011",
+    "categoria": "Flujo Cambiario - Costos",
+    "pregunta": "Que comisiones cobra el banco en exportacion?",
+    "respuesta": "Costos bancarios tipicos en Colombia: 1) Comision por recepcion de transferencia: $20-50 USD o 0.1-0.25% del valor. 2) Monetizacion de divisas: spread entre TRM de compra y venta (0.1-0.5%). 3) Carta de credito: 1-3% del valor + gastos de mensaje SWIFT. 4) 4x1000 (GMF): 0.4% sobre el valor monetizado. 5) Gastos SWIFT: $25-40 USD por operacion. Estos costos DEBEN incluirse en tu estructura de precio. Un error comun es calcular margen sin considerar comisiones bancarias. Suma aproximadamente 1-2% adicional al costo."
+  },
+  {
+    "id": "flujo_012",
+    "categoria": "Flujo Cambiario - Errores",
+    "pregunta": "Que pasa si no hago el flujo cambiario?",
+    "respuesta": "No canalizar divisas por el mercado formal es una infraccion cambiaria grave en Colombia. Consecuencias: 1) Multas de la DIAN y la Superintendencia Financiera (hasta 200% del valor no canalizado). 2) Investigacion por lavado de activos. 3) Problemas con la DIAN para futuras exportaciones. 4) No puedes solicitar devolucion de IVA. 5) El banco puede cerrar tu cuenta. SIEMPRE canaliza los pagos por el banco con la documentacion soporte. No uses mecanismos informales ni cuentas en el exterior sin declarar."
+  }
+]

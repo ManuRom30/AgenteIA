@@ -1,0 +1,86 @@
+[
+  {
+    "id": "inco_001",
+    "categoria": "Incoterms - Principiantes",
+    "pregunta": "Que Incoterm me conviene para exportar prendas?",
+    "respuesta": "Para exportar prendas, el Incoterm mas recomendado al inicio es FOB (Free On Board). Con FOB, tu responsabilidad termina cuando la mercancia esta a bordo del buque en el puerto de origen. Es el mas usado en confecciones porque equilibra costos y riesgos: tu controlas el proceso hasta el embarque y el comprador asume el flete internacional. Si eres muy principiante, EXW es mas simple pero menos competitivo internacionalmente."
+  },
+  {
+    "id": "inco_002",
+    "categoria": "Incoterms - Principiantes",
+    "pregunta": "Cual es el mejor Incoterm si estoy empezando a exportar ropa?",
+    "respuesta": "Si estas empezando, FOB es el mas recomendado. Te permite controlar el proceso hasta el puerto de salida sin asumir el riesgo del transporte internacional. EXW es mas simple (entregas en tu bodega) pero no es bien visto en comercio internacional formal y limita tu competitividad. Evita DDP al inicio porque asumes todos los costos y riesgos hasta la puerta del cliente."
+  },
+  {
+    "id": "inco_003",
+    "categoria": "Incoterms - Definiciones",
+    "pregunta": "Que significa FOB, CPT o CIP en exportacion de confecciones?",
+    "respuesta": "FOB (Free On Board): Tu responsabilidad termina al cargar la mercancia en el buque. Pagas costos hasta el puerto de origen. CPT (Carriage Paid To): Pagas el flete hasta el destino acordado, pero el riesgo se transfiere al comprador cuando entregas al transportista. CIP (Carriage and Insurance Paid To): Igual que CPT pero ademas incluyes seguro de transporte. En confecciones, FOB es el mas comun, CPT se usa para envios aereos, y CIP cuando el cliente exige seguro incluido."
+  },
+  {
+    "id": "inco_004",
+    "categoria": "Incoterms - Seguridad",
+    "pregunta": "Cual Incoterm es mas seguro para exportar ropa?",
+    "respuesta": "El mas seguro para el exportador es EXW (entregas en tu bodega, cero riesgo de transporte). Sin embargo, no es competitivo. El equilibrio ideal es FOB: controlas el proceso hasta el embarque, conoces los costos locales, y el riesgo internacional lo asume el comprador. Si quieres mas proteccion con seguro incluido, CIP te cubre hasta destino. Nunca uses DDP con clientes nuevos porque asumes todo el riesgo."
+  },
+  {
+    "id": "inco_005",
+    "categoria": "Incoterms - Tipo de envio",
+    "pregunta": "Que Incoterm usar para exportar ropa por avion?",
+    "respuesta": "Para envios aereos se usa CPT (Carriage Paid To) o CIP (Carriage and Insurance Paid To). FOB es exclusivo para transporte maritimo. Con CPT pagas el flete aereo hasta el aeropuerto destino. Con CIP ademas incluyes seguro. Para envios pequenos por courier (DHL, FedEx), normalmente se usa DAP o DDP, aunque para exportaciones formales CPT es el estandar aereo."
+  },
+  {
+    "id": "inco_006",
+    "categoria": "Incoterms - Tipo de envio",
+    "pregunta": "Que Incoterm usar para envios pequenos de prendas?",
+    "respuesta": "Para envios pequenos (muestras, pedidos iniciales) puedes usar DAP (Delivered at Place) si envias por courier. Para exportaciones formales aunque sean de bajo volumen, CPT es adecuado por via aerea. Si el cliente nuevo te pide que le llegue a su puerta, DAP es la opcion. Recuerda: envios pequenos por courier (DHL, FedEx) normalmente manejan DAP o DDP de forma automatica."
+  },
+  {
+    "id": "inco_007",
+    "categoria": "Incoterms - Tipo de envio",
+    "pregunta": "Que Incoterm usar si voy a exportar un contenedor de ropa?",
+    "respuesta": "Para contenedores completos (FCL), FOB es el estandar en la industria de confecciones. Tu llevas la mercancia al puerto, la cargas en el contenedor, y el comprador asume flete maritimo y seguro. Si el cliente te pide precio con flete incluido, usa CFR (sin seguro) o CIF (con seguro). La mayoria de compradores internacionales de moda trabajan con FOB porque ellos tienen mejores tarifas de flete por volumen."
+  },
+  {
+    "id": "inco_008",
+    "categoria": "Incoterms - Costos",
+    "pregunta": "Que costos incluye el Incoterm CPT en confecciones?",
+    "respuesta": "Con CPT incluyes: costo de produccion, empaque para exportacion, transporte interno hasta el aeropuerto/terminal, costos de exportacion (agente aduanero, DEX), y flete internacional hasta el punto acordado. NO incluyes: seguro de transporte (eso seria CIP), costos de importacion en destino, ni aranceles del comprador. El riesgo se transfiere cuando entregas al primer transportista, aunque pagues el flete completo."
+  },
+  {
+    "id": "inco_009",
+    "categoria": "Incoterms - Costos",
+    "pregunta": "Que diferencia hay entre CPT y CIP en exportacion de ropa?",
+    "respuesta": "La unica diferencia es el SEGURO. CPT: pagas flete hasta destino pero SIN seguro de transporte. CIP: pagas flete hasta destino CON seguro de transporte incluido. En ambos, el riesgo se transfiere al entregar al transportista. CIP cuesta entre 0.3% y 1% mas sobre el valor de la mercancia (prima del seguro). Usa CIP cuando el cliente lo exige o cuando el valor de la mercancia es alto y quieres proteccion adicional."
+  },
+  {
+    "id": "inco_010",
+    "categoria": "Incoterms - Costos",
+    "pregunta": "Que costos debo asumir si vendo FOB?",
+    "respuesta": "Con FOB asumes: costo de produccion, empaque de exportacion, transporte interno (fabrica a puerto), gastos portuarios de origen (handling, almacenaje), agente de aduanas, DEX (Declaracion de Exportacion), y carga al buque. El comprador asume desde que la mercancia esta a bordo: flete maritimo, seguro, descarga, aduana destino e impuestos de importacion."
+  },
+  {
+    "id": "inco_011",
+    "categoria": "Incoterms - Riesgo",
+    "pregunta": "Quien asume el riesgo de la mercancia en cada Incoterm?",
+    "respuesta": "El riesgo se transfiere en un punto especifico segun el Incoterm: EXW: en tu bodega (comprador asume todo el transporte). FOB: al cargar en el buque. CPT/CIP: al entregar al primer transportista (aunque pagues flete hasta destino). DAP: en el punto de entrega acordado. DDP: en la puerta del comprador (tu asumes todo). Regla general: mientras mas lejos llegue tu responsabilidad, mas riesgo asumes y mas caro es tu precio."
+  },
+  {
+    "id": "inco_012",
+    "categoria": "Incoterms - Riesgo",
+    "pregunta": "Que Incoterm me protege si el cliente no paga?",
+    "respuesta": "Ningun Incoterm te protege contra impago. Los Incoterms definen costos y riesgos de TRANSPORTE, no de pago. Para protegerte del impago debes usar: 1) Pago anticipado (50-100% antes de producir), 2) Carta de credito irrevocable (el banco garantiza el pago), 3) Seguro de credito a la exportacion. La recomendacion con clientes nuevos es siempre exigir anticipo alto (70-100%) independientemente del Incoterm."
+  },
+  {
+    "id": "inco_013",
+    "categoria": "Incoterms - Competitividad",
+    "pregunta": "Que Incoterm me hace mas competitivo en el mercado internacional?",
+    "respuesta": "FOB es el estandar y te hace competitivo sin asumir riesgos excesivos. Sin embargo, ofrecer CPT o CIF puede darte ventaja porque facilitas la compra al cliente (el recibe precio con flete incluido). La clave: calcula bien tus costos y margenes. Un precio CIF bien calculado es mas atractivo que un FOB donde el cliente no sabe cuanto le costara el flete. Empresas grandes de moda prefieren FOB porque negocian mejores fletes por volumen."
+  },
+  {
+    "id": "inco_014",
+    "categoria": "Incoterms - Competitividad",
+    "pregunta": "Que Incoterm usan normalmente las empresas de moda?",
+    "respuesta": "El 80% de las exportaciones de moda y confecciones se manejan en FOB. Las grandes marcas (Zara, H&M, compradores de USA) compran FOB porque tienen contratos de flete global con mejores tarifas. Para marcas mas pequenas o boutiques, CPT o DAP puede ser mas atractivo porque les simplificas la logistica. Si vendes a marketplaces, generalmente piden DDP (tu asumes todo hasta su bodega)."
+  }
+]
