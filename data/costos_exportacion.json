@@ -1,0 +1,56 @@
+[
+  {
+    "id": "costo_001",
+    "categoria": "Costos - Calculo basico",
+    "pregunta": "Como calcular el costo de exportacion de una prenda?",
+    "respuesta": "La estructura de costos de exportacion de una prenda incluye: 1) Costo de produccion (materia prima + mano de obra + CIF). 2) Empaque de exportacion (caja, etiquetado, proteccion). 3) Transporte interno (fabrica a puerto/aeropuerto). 4) Gastos portuarios/aeroportuarios. 5) Agente de aduanas y DEX. 6) Documentos (certificado de origen, fitosanitarios si aplican). 7) Comisiones bancarias (1-2%). 8) Margen de utilidad (20-40% dependiendo del mercado). 9) Provision por riesgo cambiario (2-3%). Formula simple: Precio EXW + logistica + docs + financiero + margen = Precio FOB."
+  },
+  {
+    "id": "costo_002",
+    "categoria": "Costos - Calculo basico",
+    "pregunta": "Como saco el precio de exportacion por unidad?",
+    "respuesta": "Precio por unidad = (Costos totales del pedido) / (Numero total de unidades). Ejemplo: produces 1000 camisetas. Costo produccion: $15,000 USD. Logistica + docs: $800 USD. Financiero (comisiones): $200 USD. Total: $16,000 USD. Precio por unidad = $16 USD. Agrega margen 30%: $16 * 1.30 = $20.80 USD por unidad FOB. Consejo: siempre calcula por pedido total y luego divide. Nunca cotices unidad por unidad sin considerar costos fijos que se diluyen con volumen."
+  },
+  {
+    "id": "costo_003",
+    "categoria": "Costos - Estructura",
+    "pregunta": "Que debo incluir en el costo de exportar ropa?",
+    "respuesta": "Debes incluir TODO lo siguiente: DIRECTOS: materia prima, mano de obra directa, insumos (hilos, botones, etiquetas). INDIRECTOS: arriendo, servicios, depreciacion maquinaria. EXPORTACION: empaque especial, transporte interno, puerto, agente aduanero, DEX, certificado de origen. FINANCIEROS: comisiones bancarias (1-2%), 4x1000, provision cambiaria (2-3%), costo del dinero (si financias produccion). COMERCIALES: comision del vendedor/agente (si hay), muestras previas. Provision general: 11.5% sobre costos para imprevistos segun la metodologia de mentoria Lafayette."
+  },
+  {
+    "id": "costo_004",
+    "categoria": "Costos - Ocultos",
+    "pregunta": "Que costos adicionales aparecen en una exportacion?",
+    "respuesta": "Costos que muchos olvidan: 1) Agenciamiento aduanero: $200-500 USD por despacho. 2) Certificado de origen: $50-100 USD. 3) Inspecciones (si el pais destino las exige): $100-300 USD. 4) Almacenaje en puerto (si hay demoras): $50-200 USD/dia. 5) Empaque de exportacion (cajas reforzadas, pallets): 3-5% del valor. 6) Muestras pre-embarque. 7) Fotos y catalogo para el cliente. 8) Comunicaciones internacionales. 9) Comisiones bancarias: SWIFT, monetizacion, 4x1000. 10) Seguros. Total costos ocultos: puede sumar 10-15% sobre el costo de produccion."
+  },
+  {
+    "id": "costo_005",
+    "categoria": "Costos - Ocultos",
+    "pregunta": "Que es el agenciamiento aduanero y cuanto cuesta?",
+    "respuesta": "El agente de aduanas es el profesional autorizado por la DIAN para tramitar la Declaracion de Exportacion (DEX). Es obligatorio para exportaciones con valor superior a USD $1,000. Costo tipico: tarifa fija de $300-600 USD por despacho (no por porcentaje del valor). Incluye: elaboracion del DEX, tramites ante la DIAN, coordinacion con el puerto. NO incluye: costos portuarios, transporte, inspecciones. Algunos agentes cobran adicional por servicios de coordicacion logistica integral."
+  },
+  {
+    "id": "costo_006",
+    "categoria": "Costos - Rentabilidad",
+    "pregunta": "Cuantas prendas debo exportar para que sea rentable?",
+    "respuesta": "Depende del tipo de prenda y destino, pero regla general: los costos fijos de exportacion (agente aduanero, documentos, logistica minima) estan entre $500-1,500 USD por despacho. Para que estos costos no se coman tu margen: Prendas de valor medio ($10-20 USD): minimo 200-500 unidades por envio. Prendas de alto valor ($30-50 USD): desde 100 unidades puede ser viable. Carga consolidada: si no llenas un contenedor, puedes compartir con otros exportadores (LCL) pero el costo por unidad sube. El punto de equilibrio tipico en confecciones colombianas: pedidos desde $5,000 USD FOB."
+  },
+  {
+    "id": "costo_007",
+    "categoria": "Costos - Rentabilidad",
+    "pregunta": "Es rentable exportar pocas unidades?",
+    "respuesta": "Exportar pocas unidades (menos de 100) es dificil que sea rentable por los costos fijos. Alternativas para volumenes bajos: 1) Envio por courier (DHL, FedEx): hasta 30kg, sin agente aduanero obligatorio, ideal para muestras o pedidos iniciales. 2) Carga consolidada (LCL): compartes contenedor con otros. 3) Acumular pedidos de varios clientes en un solo despacho. 4) Exportacion por servicios postales (4-72 exporta facil): para pedidos hasta $2,000 USD. Para que exportacion formal sea rentable: apunta a pedidos minimos de $3,000-5,000 USD."
+  },
+  {
+    "id": "costo_008",
+    "categoria": "Costos - Matriz",
+    "pregunta": "Como se arma una matriz de costos de exportacion?",
+    "respuesta": "Una matriz de costos se organiza asi: COLUMNAS: EXW, FOB, CPT, CIF (cada Incoterm agrega costos). FILAS: 1) Costo de produccion. 2) Empaque exportacion. 3) Transporte interno. 4) Gastos portuarios. 5) Agente aduanero + DEX. 6) Documentos. 7) Subtotal = precio EXW. 8) Carga al buque = precio FOB. 9) Flete internacional = precio CPT/CFR. 10) Seguro = precio CIP/CIF. 11) Costos financieros (% sobre total). 12) Margen. 13) PRECIO FINAL. Asi el cliente puede elegir el Incoterm y tu no pierdes margen."
+  },
+  {
+    "id": "costo_009",
+    "categoria": "Costos - Impuestos",
+    "pregunta": "El IVA se incluye en el costo de exportacion?",
+    "respuesta": "NO. Las exportaciones colombianas tienen tarifa IVA del 0% (estan exentas, no excluidas). Tu factura de exportacion va sin IVA. Ademas, el IVA que pagaste en compras de insumos, materias primas y servicios para producir lo exportado es RECUPERABLE. Puedes solicitar devolucion de IVA a la DIAN (proceso de devolucion de IVA a exportadores). Este beneficio puede representar un 19% de ahorro sobre tus compras. Muchos exportadores nuevos no lo aprovechan y pierden competitividad por desconocimiento."
+  }
+]

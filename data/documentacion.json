@@ -1,0 +1,74 @@
+[
+  {
+    "id": "doc_001",
+    "categoria": "Documentacion - Basico",
+    "pregunta": "Que documentos necesito para exportar ropa?",
+    "respuesta": "Los documentos esenciales para exportar ropa desde Colombia son: 1) Factura comercial (invoice) - sin IVA, con Incoterm y subpartida arancelaria. 2) Packing list - detalle exacto de mercancia por caja. 3) DEX (Declaracion de Exportacion) - tramitado por tu agente de aduanas ante la DIAN. 4) Certificado de origen - si aplica TLC con el pais destino. 5) RUT actualizado con actividad de comercio exterior. Opcional: ficha tecnica del producto, certificados de calidad segun mercado destino."
+  },
+  {
+    "id": "doc_002",
+    "categoria": "Documentacion - Factura",
+    "pregunta": "Que es una factura de exportacion?",
+    "respuesta": "La factura de exportacion (commercial invoice) es el documento comercial principal. A diferencia de una factura nacional: NO lleva IVA (exportaciones estan exentas), debe ir en el idioma del comprador (generalmente ingles), incluye Incoterm pactado, subpartida arancelaria, peso neto y bruto, y datos completos de comprador y vendedor. Es la base para la valoracion en aduana destino y para el proceso de reintegro de divisas con el banco."
+  },
+  {
+    "id": "doc_003",
+    "categoria": "Documentacion - Factura",
+    "pregunta": "Que debe llevar una factura de exportacion?",
+    "respuesta": "Una factura de exportacion debe incluir: datos completos del exportador (nombre, NIT, direccion), datos del importador (nombre, direccion, pais), numero de factura, fecha, descripcion detallada de productos, cantidad, precio unitario y total en la moneda pactada (USD generalmente), Incoterm, subpartida arancelaria, peso neto y bruto, condiciones de pago, y puerto/aeropuerto de embarque y destino. NO incluye IVA. Debe coincidir exactamente con el packing list."
+  },
+  {
+    "id": "doc_004",
+    "categoria": "Documentacion - Factura",
+    "pregunta": "La factura de exportacion lleva IVA?",
+    "respuesta": "NO. Las exportaciones desde Colombia estan exentas de IVA (tarifa 0%). La factura de exportacion se emite sin IVA. Ademas, como exportador tienes derecho a solicitar devolucion del IVA pagado en insumos y servicios utilizados para producir la mercancia exportada (devolucion de IVA a exportadores ante la DIAN). Este es un beneficio importante que muchos exportadores nuevos no aprovechan."
+  },
+  {
+    "id": "doc_005",
+    "categoria": "Documentacion - Packing List",
+    "pregunta": "Que es un packing list y para que sirve?",
+    "respuesta": "El packing list (lista de empaque) es el documento que detalla EXACTAMENTE como esta embalada la mercancia: cuantas cajas, que contiene cada caja, peso y dimensiones de cada bulto. Sirve para: 1) La aduana verifique que lo fisico coincide con lo declarado. 2) El transportista sepa como manipular la carga. 3) El comprador verifique que recibio todo. REGLA CRITICA: el packing list debe coincidir EXACTAMENTE con la factura. Si no coinciden, la mercancia puede ser retenida en aduana."
+  },
+  {
+    "id": "doc_006",
+    "categoria": "Documentacion - Packing List",
+    "pregunta": "Como hacer un packing list paso a paso?",
+    "respuesta": "Paso a paso: 1) Numera cada caja/bulto (Box 1, Box 2...). 2) Para cada caja indica: contenido exacto (referencia, color, talla, cantidad), peso neto y bruto (en kg), dimensiones (largo x ancho x alto en cm). 3) Al final, totaliza: total cajas, peso neto total, peso bruto total, volumen total. 4) Incluye datos del exportador, importador, numero de factura asociada, y fecha. 5) Verifica que los totales de cantidades y pesos coincidan con la factura. Un error aqui = retencion en aduana."
+  },
+  {
+    "id": "doc_007",
+    "categoria": "Documentacion - Proforma",
+    "pregunta": "Que es una factura proforma?",
+    "respuesta": "La factura proforma es la cotizacion internacional. Es un documento pre-venta que detalla: productos ofrecidos, precios, Incoterm, condiciones de pago, tiempo de entrega, y validez de la oferta. NO es un documento fiscal ni sirve para aduana. Sirve para: 1) El cliente sepa exactamente que va a recibir y a que precio. 2) El cliente tramite permisos de importacion en su pais. 3) Base para solicitar anticipos. 4) Si el cliente acepta, se convierte en la base de la factura comercial definitiva."
+  },
+  {
+    "id": "doc_008",
+    "categoria": "Documentacion - Coherencia",
+    "pregunta": "Por que deben coincidir todos los documentos?",
+    "respuesta": "La coherencia documental es la regla #1 en comercio exterior. Factura, packing list, DEX y conocimiento de embarque deben tener los mismos datos: mismas cantidades, mismos pesos, mismas descripciones. Si hay discrepancias: la aduana puede retener la mercancia, se generan multas, el banco puede rechazar documentos para el pago, y el cliente puede tener problemas para nacionalizar. Errores comunes: pesos diferentes entre factura y packing list, cantidades que no cuadran, Incoterms inconsistentes."
+  },
+  {
+    "id": "doc_009",
+    "categoria": "Documentacion - Coherencia",
+    "pregunta": "Que pasa si la factura y el packing list no coinciden?",
+    "respuesta": "Consecuencias directas: 1) Retencion de mercancia en aduana destino (dias o semanas de demora). 2) Costos de almacenaje mientras se resuelve. 3) Multas por discrepancias documentales. 4) Si usas carta de credito, el banco rechaza los documentos y no te pagan. 5) Perdida de confianza del cliente. Solucion: antes de embarcar, cruza linea por linea factura vs packing list. Las cantidades, pesos, descripciones y valores deben ser identicos."
+  },
+  {
+    "id": "doc_010",
+    "categoria": "Documentacion - Proceso",
+    "pregunta": "Que documento se hace primero en una exportacion?",
+    "respuesta": "El flujo correcto es: 1) Ficha tecnica del producto (base para todo). 2) Factura proforma (cotizacion al cliente). 3) Cuando el cliente acepta y paga anticipo: factura comercial definitiva. 4) Packing list (cuando la mercancia esta lista y embalada). 5) DEX - Declaracion de Exportacion (tramita tu agente de aduanas con factura y packing list). 6) Conocimiento de embarque / guia aerea (lo emite el transportista). Nunca hagas el DEX antes de tener factura y packing list definitivos."
+  },
+  {
+    "id": "doc_011",
+    "categoria": "Documentacion - RUT",
+    "pregunta": "Necesito RUT para exportar?",
+    "respuesta": "Si, necesitas RUT actualizado con la actividad economica de comercio exterior. Si eres persona juridica, el RUT de la empresa. Si eres persona natural, tu RUT personal con actividad de comercio. Ademas necesitas estar registrado en Camara de Comercio. Sin formalizacion NO puedes: acceder a beneficios de TLC (aranceles reducidos), hacer reintegro formal de divisas, solicitar devolucion de IVA, ni usar agente de aduanas. Puedes exportar como persona natural pero debes estar formalizado."
+  },
+  {
+    "id": "doc_012",
+    "categoria": "Documentacion - Proceso",
+    "pregunta": "Que documentos se entregan al banco?",
+    "respuesta": "Para el reintegro de divisas (traer el dinero de la exportacion) debes entregar al banco: 1) Factura comercial de exportacion. 2) DEX (Declaracion de Exportacion) - prueba de que la mercancia salio del pais. 3) Conocimiento de embarque o guia aerea. Con estos documentos el banco procesa la monetizacion de divisas y genera la declaracion de cambio. Si usas carta de credito, ademas necesitas documentos que exija el credito (certificados de origen, inspecciones, etc.)."
+  }
+]
