@@ -30,6 +30,7 @@ retriever, llm = init_resources()
 
 # --- Sidebar ---
 with st.sidebar:
+    st.image("https://lafayette.com/wp-content/uploads/logo-lafayette-2.svg", width=200)
     st.title("Hola Soy ComexIA By Lafayette")
     st.caption("Tu asistente de Exportacion")
     st.divider()
@@ -57,6 +58,7 @@ with st.sidebar:
     st.caption("Powered by Lafayette + IA")
 
 # --- Main Chat ---
+st.image("https://lafayette.com/wp-content/uploads/logo-lafayette-2.svg", width=250)
 st.title("Asistente de Exportacion")
 st.caption("Resuelve tus dudas sobre exportacion de textiles y confecciones")
 
