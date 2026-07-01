@@ -7,7 +7,7 @@ from src.vectorstore import get_vectorstore
 load_dotenv()
 
 st.set_page_config(
-    page_title="Lafayette - Asistente de Exportacion",
+    page_title="ComexIa - Asistente de Exportacion By Lafayette",
     page_icon="🧵",
     layout="centered",
 )
@@ -30,8 +30,8 @@ retriever, llm = init_resources()
 
 # --- Sidebar ---
 with st.sidebar:
-    st.title("Lafayette")
-    st.caption("Asistente de Exportacion")
+    st.title("Hola Soy ComexIA By Lafayette")
+    st.caption("Tu asistente de Exportacion")
     st.divider()
     st.markdown("**Puedo ayudarte con:**")
     st.markdown("""
@@ -66,7 +66,7 @@ if "messages" not in st.session_state:
 if not st.session_state.messages:
     with st.chat_message("assistant"):
         st.markdown(
-            "¡Hola! Soy el asistente de exportacion de Lafayette. "
+            "¡Hola soy ComexIA! Soy el asistente de exportacion de Lafayette. "
             "Estoy aqui para ayudarte con dudas sobre Incoterms, costos, "
             "documentacion, pagos internacionales y mas. "
             "\n\n¿En que puedo ayudarte hoy?"
