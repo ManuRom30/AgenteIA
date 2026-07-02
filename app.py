@@ -59,8 +59,8 @@ with st.sidebar:
 
 # --- Main Chat ---
 st.image("https://lafayette.com/wp-content/uploads/logo-lafayette-2.svg", width=250)
-st.title("Asistente de Exportacion")
-st.caption("Resuelve tus dudas sobre exportacion de textiles y confecciones")
+st.title("ComexIa - Asistente de Exportacion By Lafayette")
+st.caption("Resuelve tus dudas sobre exportacion de tus confecciones")
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
